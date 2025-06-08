@@ -6,5 +6,6 @@ Python Analysis (Untitled6.ipynb): Jupyter Notebook showcasing data cleaning, fe
 Power BI Dashboard: A companion Power BI file (not included in this repo but developed from the same data) that translates the Python-derived insights into an interactive dashboard, providing a user-friendly interface for stakeholders to explore distributions and trends across age groups, blood pressure, heart rate, and oxygen saturation.
 This project underscores a strong capability in both programmatic data analysis and professional business intelligence reporting, offering a holistic view of health monitoring data."
 
-Result
-![Uploading Health Monitoring Data Analysis & Visualization.jpg…]()
+Result:
+![Health Monitoring Data Analysis   Visualization](https://github.com/user-attachments/assets/93c1f98b-bd80-4bd5-a42d-e8da6fd66b6f)
+
